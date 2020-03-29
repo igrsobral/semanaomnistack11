@@ -1,5 +1,6 @@
 const express = require('express');
 const crypto  = require('crypto');
+
 const connection = require('./database/connection');
 
 const routes = express.Router();
