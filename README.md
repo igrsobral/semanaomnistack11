@@ -1,4 +1,4 @@
-# Semana Omnistack11
+# Projeto Fullstack Be The Hero
 <h1 align="center">
     <img alt="Be the Hero" src="frontend/src/assets/logo.svg" width="250px" />
 </h1>
